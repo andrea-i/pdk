@@ -1,0 +1,6 @@
+
+#define PDK_BUFFER_W 176
+#define PDK_BUFFER_H 96
+#define PDK_MAX_BACK_SWAP_TILES 3
+// #define PDK_SLOW_READABLE_CODE 1
+#define PDK_SHOWFPS 1
